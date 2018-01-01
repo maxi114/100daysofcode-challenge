@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.hr {
+    position: absolute;
+    left: 160px;
+    font-size: 20px;
+}
+
+.min {
+    position: absolute;
+    font-size: 20px;
+    right: 310px;
+}
+
+.sec {
+    position: absolute;
+    right: 160px;
+    font-size: 20px;
+}
