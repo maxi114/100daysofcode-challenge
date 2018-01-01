@@ -6,4 +6,4 @@ Todays Progress: officially started my #100daysofcode challenge, I worked on a t
 
 Thoughts:Did well by going online looking for help with my problem,
 
-Link to work:
+Link to work: file:///C:/Users/Max%20Kodi/Desktop/node.js-and-express.js-freecodecamp/max's%20timer/time.html
