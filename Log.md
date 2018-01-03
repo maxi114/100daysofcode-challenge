@@ -19,4 +19,4 @@ Todays progress:  eedited som css and html officially started my javascript side
 
 Thoughts: I solved my problem by going through my previous projects that i did with FREECODECAMP "the pomodoro clock" and i found a solution
 
-link to work: still dont know how to link my work so if anyone sees this please help me on linking my work, its on my local computer
+link to work: still dont know how to link my work so if anyone sees this please help me on linking my work, its on my local computer.
