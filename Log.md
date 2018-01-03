@@ -2,7 +2,7 @@
 
 100 days of code log
 
-Day 1: January 1st, 2018
+DAY 1: JANUARY 1ST, 2018
 
 Todays Progress: officially started my #100daysofcode challenge, I worked on a timer, took me forever to connect jquery to html cause I had the script tag inside the head tag and it took me oer 2hrs to realize it's suppoded to be in the body tag
 
@@ -13,7 +13,7 @@ Link to work: dont know how to link my work
 
 
 
-day 2: January 2nd, 2018
+DAY 2: JANUARY 2ND, 2018
 
 Todays progress:  eedited som css and html officially started my javascript side of my project, I had a little bit of problem with the "setInterval" function but i got a hold of it.
 
