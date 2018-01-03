@@ -11,6 +11,8 @@ Thoughts:Did well by going online looking for help with my problem,
 Link to work: dont know how to link my work
 
 
+
+
 day 2: January 2nd, 2018
 
 Todays progress:  eedited som css and html officially started my javascript side of my project, I had a little bit of problem with the "setInterval" function but i got a hold of it.
