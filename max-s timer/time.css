@@ -29,3 +29,7 @@ body {
     margin-top: 300px;
     text-align: center;
 }
+
+button:hover {
+    cursor: pointer;
+}
