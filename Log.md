@@ -23,3 +23,8 @@ DAY 3 JANUARY 3RD, 2018
 TODAYS PROGRESS: added some javascript(jquery), the timer is now functioning but with a few glitches. 
 THOUGHTS: it was challenging to get the hrs,minutes and seconds all to work together to make the timer function
 Link to work : still dont know how to link my wok , if anyone reads this please help me link my work
+
+DAY 4: JANUARY 4TH, 2018
+
+TODAYS PROGRESS: finished the project i am thinking of what to do next, I added sound to my timer
+THOUGHTS:its not the best looking timer but it functions and ill be using it to time myself
