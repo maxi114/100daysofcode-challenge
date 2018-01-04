@@ -5,6 +5,8 @@ $(document).ready(function() {
     var min = 0;
     var sec = 0;
 
+    //sound to play when times up
+    var timeup = new Audio("file:///C:/Users/Max%20Kodi/Downloads/16449_1460643352.mp3")
 
     //function to run the + and - hr buttons
     $(".hrdec").click(function() {
@@ -90,7 +92,7 @@ $(document).ready(function() {
                 clearInterval(secount);
             }
 
-
+            $(".time1").html(hr + ":" + min + ":" + sec);
             $(".sec2").html(sec);
         }
 
@@ -109,10 +111,11 @@ $(document).ready(function() {
                 min = 60;
             }
             if (min === 0) {
+                timeup.play()
                 clearInterval(mincount);
             }
 
-
+            $(".time1").html(hr + ":" + min + ":" + sec);
             $(".min2").html(min);
         }
 
@@ -132,11 +135,13 @@ $(document).ready(function() {
             $(".time1").html(hr + ":" + min + ":" + sec);
 
         }
+    })
 
-
-
-
-
+    //reset button
+    $('.reset').click(function() {
+        hr = 0;
+        min = 0;
+        sec = 0;
     })
 
 
