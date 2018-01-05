@@ -6,7 +6,7 @@ DAY 1: JANUARY 1ST, 2018
 
 TODAYS PROGRESS: officially started my #100daysofcode challenge, I worked on a timer, took me forever to connect jquery to html cause I had the script tag inside the head tag and it took me oer 2hrs to realize it's suppoded to be in the body tag
 THOUGHTS:Did well by going online looking for help with my problem,
-LINK TO WORKk: dont know how to link my work
+LINK TO WORKk: dont know how to link my work.
 
 
 
