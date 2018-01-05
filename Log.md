@@ -22,7 +22,7 @@ DAY 3 JANUARY 3RD, 2018
 
 TODAYS PROGRESS: added some javascript(jquery), the timer is now functioning but with a few glitches. 
 THOUGHTS: it was challenging to get the hrs,minutes and seconds all to work together to make the timer function
-Link to work : still dont know how to link my wok , if anyone reads this please help me link my work
+Link to work : still dont know how to link my wok , if anyone reads this please help me link my work.
 
 DAY 4: JANUARY 4TH, 2018
 
