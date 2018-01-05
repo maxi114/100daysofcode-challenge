@@ -28,3 +28,9 @@ DAY 4: JANUARY 4TH, 2018
 
 TODAYS PROGRESS: We had a snow day today so i didnt go to school which gave me more time to work on my project, finished the project I am thinking of what to do next, I added sound to my timer and I will probably start a game project tomorrow. 
 THOUGHTS:its not the best looking timer but it functions and ill be using it to time myself
+
+
+DAY 5: JANUARY 5TH, 2018
+
+TODAYS PROGRESS: Started my gane didnt really do much had to learn some html canvas
+THOUGHTS: This project will probably take  a few weeks
