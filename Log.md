@@ -32,5 +32,9 @@ THOUGHTS:its not the best looking timer but it functions and ill be using it to 
 
 DAY 5: JANUARY 5TH, 2018
 
-TODAYS PROGRESS: Started my gane didnt really do much had to learn some html canvas.
+TODAYS PROGRESS: Started my game didnt really do much had to learn some html canvas.
 THOUGHTS: This project will probably take  a few weeks
+
+DAY 6: 6TH 2018
+TODAYS PROGRESS: started html canvas didnt do much cause i am still learning how to use it
+THOUGHTS: could have coded a little more
