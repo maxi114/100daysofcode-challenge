@@ -35,6 +35,10 @@ DAY 5: JANUARY 5TH, 2018
 TODAYS PROGRESS: Started my game didnt really do much had to learn some html canvas.
 THOUGHTS: This project will probably take  a few weeks
 
+DAY 6: JANUARY 6TH, 2018
+TODAYS PROFRESS: added some circles and bouncing effect
+THOUGHTS: doing well
+
 DAY 6: 6TH 2018
 TODAYS PROGRESS: started html canvas didnt do much cause i am still learning how to use it
 THOUGHTS: could have coded a little more
