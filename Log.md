@@ -39,6 +39,9 @@ DAY 6: JANUARY 6TH, 2018
 TODAYS PROFRESS: added some circles and bouncing effect
 THOUGHTS: doing well
 
-DAY 6: 6TH 2018
+DAY 7: JANUARY 7TH 2018
 TODAYS PROGRESS: started html canvas didnt do much cause i am still learning how to use it
 THOUGHTS: could have coded a little more
+
+DAY 8: JANUARY 8TH 2018
+TODAYS PROGRESS: started adding some background on my game project
