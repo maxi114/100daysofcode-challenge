@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: antiquewhite
+}
+
+.image {
+    width: 700px;
+    height: 500px;
+}
+
+p {
+    margin: 20px 300px 0px 300px;
+}
