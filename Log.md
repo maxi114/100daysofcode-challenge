@@ -45,3 +45,6 @@ THOUGHTS: could have coded a little more
 
 DAY 8: JANUARY 8TH 2018
 TODAYS PROGRESS: started adding some background on my game project
+
+DAY 9: JANUARY 9TH 2018
+TODAYS PROGRESS:i realized that the game project isn't helping me build my skills on what i already know so i built an elon musk article and finished it to build my skills 
