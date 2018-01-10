@@ -48,3 +48,6 @@ TODAYS PROGRESS: started adding some background on my game project
 
 DAY 9: JANUARY 9TH 2018
 TODAYS PROGRESS:i realized that the game project isn't helping me build my skills on what i already know so i built an elon musk article and finished it to build my skills 
+
+DAY 10: JANUARY 10TH 2018
+TODAYS PROGRESS: started a portfolio project
