@@ -33,6 +33,7 @@ THOUGHTS:its not the best looking timer but it functions and ill be using it to 
 DAY 5: JANUARY 5TH, 2018
 
 TODAYS PROGRESS: Started my game didnt really do much had to learn some html canvas.
+
 THOUGHTS: This project will probably take  a few weeks
 
 DAY 6: JANUARY 6TH, 2018
@@ -51,3 +52,6 @@ TODAYS PROGRESS:i realized that the game project isn't helping me build my skill
 
 DAY 10: JANUARY 10TH 2018
 TODAYS PROGRESS: started a portfolio project
+
+DAY 11: JANUARY 11TH 2018
+TODAYS PROGRESS: finifshed my portfolio
