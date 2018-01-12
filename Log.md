@@ -55,3 +55,6 @@ TODAYS PROGRESS: started a portfolio project
 
 DAY 11: JANUARY 11TH 2018
 TODAYS PROGRESS: finifshed my portfolio
+
+DAY 12: JANUARY 12TH 2018
+TODAYS PROGRESS: built a random quote machine
