@@ -58,3 +58,6 @@ TODAYS PROGRESS: finifshed my portfolio
 
 DAY 12: JANUARY 12TH 2018
 TODAYS PROGRESS: built a random quote machine
+
+DAY 13: JANUARY 13TH 2018
+TODAYS PROGRESS: built a weather app
