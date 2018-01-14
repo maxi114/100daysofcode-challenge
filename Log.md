@@ -61,3 +61,6 @@ TODAYS PROGRESS: built a random quote machine
 
 DAY 13: JANUARY 13TH 2018
 TODAYS PROGRESS: built a weather app
+
+DAY 14: JANUARY 14TH 2018
+TODAYS PROGRESS: finished building the weather app
