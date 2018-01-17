@@ -64,3 +64,6 @@ TODAYS PROGRESS: built a weather app
 
 DAY 14: JANUARY 14TH 2018
 TODAYS PROGRESS: finished building the weather app
+
+DAY 15: JANUARY 17TH 2018
+TODAYS PROGRESS: started building a website template
