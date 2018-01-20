@@ -73,3 +73,7 @@ TODAYS PROGRESS: centered the first section of the homepage
 
 DAY 17: JABUARY 19TH 2018
 TODAYS PROGRESS: added more html 
+
+DAY 18: JANUARY 20TH 2018
+TODAYS PROGRESS: build a reponsive navigation bar took mme more than  3hrs but i finally got it
+THOUGHTS: did well
