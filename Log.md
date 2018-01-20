@@ -67,3 +67,9 @@ TODAYS PROGRESS: finished building the weather app
 
 DAY 15: JANUARY 17TH 2018
 TODAYS PROGRESS: started building a website template
+
+DAY 16: january 18th 2018
+TODAYS PROGRESS: centered the first section of the homepage
+
+DAY 17: JABUARY 19TH 2018
+TODAYS PROGRESS: added more html 
